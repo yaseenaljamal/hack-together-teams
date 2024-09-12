@@ -7,7 +7,7 @@
     "private": true,
     "dependencies": {
         "restify": "^11.1.0",
-        "send": "^0.18.0"
+        "send": "^0.19.0"
     },
     "devDependencies": {
         "env-cmd": "^10.1.0",
